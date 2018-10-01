@@ -13,4 +13,6 @@ External references :
 1. Chatterbot 0.8.7 https://chatterbot.readthedocs.io/en/stable/setup.html
 2. websocket server https://github.com/dpallot/simple-websocket-server
 
-credits : https://www.youtube.com/watch?v=UzdkjIlOJng
+Credits : https://www.youtube.com/watch?v=UzdkjIlOJng
+https://github.com/dineshsambasivam
+
