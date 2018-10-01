@@ -1,0 +1,23 @@
+categories:
+- BDD
+conversations:
+- - what is BDD
+  - BDD stands for behaviour driven development, you can read more about BDD - https://en.wikipedia.org/wiki/Behavior-driven_development
+- - which tools support BDD
+  - Tools like Cucumber and specflow support BDD
+- - How would you define BDD
+  - BDD is an approach to help ensure that developers build the right thing. It describes the behaviour expected of the system using specific examples to avoid confusion.
+- - How would you define BDD to someone with a technical background
+  - BDD is a development approach using a specific mindset. It is the logical extension of Test Driven Development (TDD), focussing on the business intent and expected behaviour of the system. Requirements are specified in a domain specific language (DSL), readable by both technical and non-technical people.
+- - What are the benefits BDD offers an organisation
+  - As an organisation, software delivered is of higher quality, with a low risk of regressions. This allows faster release cycles and quicker delivery of business value. The risk of misinterpretation of requirements is mitigated by allowing regular review and ratification of the requirements demonstrated by working software.
+- - benefits of BDD
+  - As an organisation, software delivered is of higher quality, with a low risk of regressions. This allows faster release cycles and quicker delivery of business value. The risk of misinterpretation of requirements is mitigated by allowing regular review and ratification of the requirements demonstrated by working software.
+- - Define BDD
+  - BDD is an approach to help ensure that developers build the right thing. It describes the behaviour expected of the system using specific examples to avoid confusion.
+- - what are tools for BDD
+  - Tools like Cucumber and specflow support BDD You can read more about cucumber - https://cucumber.io/
+- - what tools are used for BDD
+  - Tools like Cucumber and specflow support BDD You can read more about cucumber - https://cucumber.io/
+- - where can i read more about BDD
+  - You can read more about BDD - https://en.wikipedia.org/wiki/Behavior-driven_development
