@@ -11,6 +11,8 @@ conversations:
   - you can find an example of feature file here - http://altom.com/blog/writing-tests-with-bdd
 - - what is the extension of feature file
   - The feature file has extension as .feature
+- - feature file extension
+  - The feature file has extension as .feature
 - - Feature
   - A Feature can be defined as a standalone unit or functionality of a project
 - - Gherkin

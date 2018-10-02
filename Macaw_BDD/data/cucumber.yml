@@ -45,3 +45,7 @@ conversations:
   - Tags are a great way to organise your features and scenarios for execution. A feature or scenario or scenario outline can have as many tags as you like. Tags are inherited by child elements like Tags that are placed above a Feature will be inherited by Scenario, Scenario Outline, or Examples.
 - - What are cucumber tags
   - Tags are a great way to organise your features and scenarios for execution. A feature or scenario or scenario outline can have as many tags as you like. Tags are inherited by child elements like Tags that are placed above a Feature will be inherited by Scenario, Scenario Outline, or Examples.
+- - What are examples in scenario outline
+  - 'Examples' specify the set of values for each parameter that needs to be executed for the scenario outline.
+- - What are examples
+  - 'Examples' specify the set of values for each parameter that needs to be executed for the scenario outline.
