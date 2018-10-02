@@ -1,0 +1,29 @@
+categories:
+- ff
+conversations:
+- - what is feature file
+  - A Feature File is an entry point to the Cucumber tests This is a file where you will describe your tests in Descriptive language (Like English).
+- - How to write a feature file
+  - Every *.feature file conventionally consists of a single feature. Lines starting with the keyword Feature A feature usually contains a list of scenarios.
+- - Feature file
+  - A Feature File is an entry point to the Cucumber tests This is a file where you will describe your tests in Descriptive language (Like English).
+- - Example of feature file
+  - you can find an example of feature file here - http://altom.com/blog/writing-tests-with-bdd
+- - what is the extension of feature file
+  - The feature file has extension as .feature
+- - Feature
+  - A Feature can be defined as a standalone unit or functionality of a project
+- - Gherkin
+  - Gherkin is a Business Readable, Domain Specific Language created especially for behavior descriptions
+- - What is Gherkin
+  - Gherkin is a Business Readable, Domain Specific Language created especially for behavior descriptions
+- - Given keyword
+  - "Given" keyword is used to specify a precondition for the scenario.
+- - When Keyword
+  - "When" keyword is used to specify an operation to be performed.
+- - Then Keyword
+  - "Then" keyword is used to specify the expected result of a performed action.
+- - And Keyword
+  - "And" keyword is used to join one or more statements together into a single statement
+- - Background keyword
+  - "Background" keyword is used to group multiple given statements into a single group. This is generally used when the same set of given statements are repeated in each scenario of the feature file.

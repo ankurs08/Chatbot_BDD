@@ -1,5 +1,5 @@
 categories:
-- BDD
+- behaviour
 conversations:
 - - what is BDD
   - BDD stands for behaviour driven development, you can read more about BDD - https://en.wikipedia.org/wiki/Behavior-driven_development
@@ -21,3 +21,17 @@ conversations:
   - Tools like Cucumber and specflow support BDD You can read more about cucumber - https://cucumber.io/
 - - where can i read more about BDD
   - You can read more about BDD - https://en.wikipedia.org/wiki/Behavior-driven_development
+- - BDD
+  - BDD stands for behaviour driven development, you can read more about BDD - https://en.wikipedia.org/wiki/Behavior-driven_development
+- - language of BDD
+  - Gherkin is the language of BDD
+- - What is the language of BDD
+  - Gherkin is the language of BDD
+- - What are the keywords in Gherkin
+  - Given, When, Then, But, Background, Feature, Scenario, Scenario Outline, Examples are a few keywords of Gherkin
+- - What are the keywords in BDD
+  - Given, When, Then, But, Background, Feature, Scenario, Scenario Outline, Examples, are a few keywords of Gherkin language
+- - purpose of BDD
+  - BDD is a methodology to understand the functionality of an application in simple plain text representation. The main aim of Behavior Driven Development framework is to make various project roles such as Business Analysts, Quality Assurance, Developers, Support Team understand the application without diving deep into the technical aspects.
+- - What is the use of Behavior Driven Development in Agile methodology
+  - The advantages of Behavior Driven Development are best realized when non-technical users such as Business Analysts use BDD to draft requirements and provide the same to the developers for implementation. In Agile methodology, user stories can be written in the format of feature file and the same can be taken up for implementation by the developers.

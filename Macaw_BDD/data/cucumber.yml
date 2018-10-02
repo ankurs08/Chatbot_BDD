@@ -1,0 +1,47 @@
+categories:
+- cucu
+conversations:
+- - Explain Cucumber shortly.
+  - Cucumber is a tool that is based on Behavior Driven Development (BDD) methodology.
+- - Cucumber
+  - Cucumber is a tool that is based on Behavior Driven Development (BDD) methodology.
+- - What language is used by Cucumber
+  - Gherkin is the language that is used by the Cucumber tool. It is a simple English representation of the application behavior.
+- - Scenario
+  - Scenario is one of the core Gherkin structures. Every scenario starts with the keyword "Scenario:" (or localized one) and is followed by an optional scenario title. Each feature can have one or more scenarios and every scenario consists of one or more steps.
+- - What is Scenario
+  - Scenario is one of the core Gherkin structures. Every scenario starts with the keyword "Scenario:" (or localized one) and is followed by an optional scenario title. Each feature can have one or more scenarios and every scenario consists of one or more steps.
+- - Scenario Outline
+  - Scenario outline is a way of parameterization of scenarios. This is ideally used when the same scenario needs to be executed for multiple sets of data, however, the test steps remain the same. Scenario Outline must be followed by the keyword 'Examples', which specify the set of values for each parameter.
+- - What is the purpose of Scenario Outline in Cucumber
+  - Scenario outline is a way of parameterization of scenarios. This is ideally used when the same scenario needs to be executed for multiple sets of data, however, the test steps remain the same. Scenario Outline must be followed by the keyword 'Examples', which specify the set of values for each parameter.
+- - Step definition
+  - A Step Definition is a Java/JS/C# method with an expression that links it to one or more Gherkin steps. When Cucumber executes a Gherkin step in a scenario, it will look for a matching step definition to execute.
+- - What is the purpose of Step Definition file in Cucumber
+  - A Step Definition is a Java/JS/C# method with an expression that links it to one or more Gherkin steps. When Cucumber executes a Gherkin step in a scenario, it will look for a matching step definition to execute.
+- - What is the use of Background keyword in Cucumber
+  - Background keyword is used to group multiple given statements into a single group. This is generally used when the same set of given statements are repeated in each scenario of the feature file.
+- - What is the purpose of Cucumber Options tag
+  - Cucumber Options tag is used to provide a link between the feature files and step definition files. Each step of the feature file is mapped to a corresponding method on the step definition file.
+- - Syntax of cucumber option tag
+  - @CucumberOptions(features="Features",glue={"StepDefinition"})
+- - Cucumber option
+  - Cucumber Options tag is used to provide a link between the feature files and step definition files. Each step of the feature file is mapped to a corresponding method on the step definition file.
+- - What is the meaning of TestRunner class in Cucumber
+  - TestRunner class is used to provide the link between feature file and step definition file
+- - Test runner
+  - TestRunner class is used to provide the link between feature file and step definition file
+- - What is a Test runner
+  - TestRunner class is used to provide the link between feature file and step definition file
+- - Hooks
+  - Hooks are blocks of code that can run at various points in the Cucumber execution cycle. They are typically used for setup and teardown of the environment before and after each scenario. @After and @Before are hooks present in Cucumber.
+- - What are hooks in cucumber
+  - Hooks are blocks of code that can run at various points in the Cucumber execution cycle. They are typically used for setup and teardown of the environment before and after each scenario. @After and @Before are hooks present in Cucumber.
+- - Before hook
+  - Before hooks run before the first step of each scenario.
+- - After hook
+  - After hooks run after the last step of each scenario, even when steps are failed, undefined, pending, or skipped.
+- - Cucumber tags
+  - Tags are a great way to organise your features and scenarios for execution. A feature or scenario or scenario outline can have as many tags as you like. Tags are inherited by child elements like Tags that are placed above a Feature will be inherited by Scenario, Scenario Outline, or Examples.
+- - What are cucumber tags
+  - Tags are a great way to organise your features and scenarios for execution. A feature or scenario or scenario outline can have as many tags as you like. Tags are inherited by child elements like Tags that are placed above a Feature will be inherited by Scenario, Scenario Outline, or Examples.
