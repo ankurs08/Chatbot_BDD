@@ -49,3 +49,5 @@ conversations:
   - 'Examples' specify the set of values for each parameter that needs to be executed for the scenario outline.
 - - What are examples
   - 'Examples' specify the set of values for each parameter that needs to be executed for the scenario outline.
+- - What is cucumber
+  - Cucumber is a tool that is based on Behavior Driven Development (BDD) methodology.

@@ -7,11 +7,11 @@ def get_response(userText):
         {
             'import_path': 'chatterbot.logic.BestMatch',
             "statement_comparison_function": "chatterbot.comparisons.levenshtein_distance",
-            "response_selection_method": "chatterbot.response_selection.get_first_response"
+            "response_selection_method": "chatterbot.response_selection.get_most_frequent_response"
         },
         {
             'import_path': 'chatterbot.logic.LowConfidenceAdapter',
-            'threshold': 0.50,
+            'threshold': 0.30,
             'default_response': 'I am sorry, but I do not understand'
         }
     ],
